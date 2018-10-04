@@ -1,4 +1,4 @@
-# Gym-communit-Notes
+# Gym-community-Notes
 
 
 
