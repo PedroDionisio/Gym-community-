@@ -1,6 +1,6 @@
 # Gym-community
 Chef--> Johnny/
 
-/Trabalhador--> Cesar
+/Trabalhador da obras feitas --> Cesar
 
 /Observador--> Edgar/
