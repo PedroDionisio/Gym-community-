@@ -1,7 +1,14 @@
 # Gym-community
 
-
-
+1ª tarefa: Definiçao tema e apresentaçao de um breve powerpoint sobre o tema escolhido;
+          Team Lider- Cesar Cosme;
+	  
+2ª tarefa: Criaçao de conta do Github, criaçao de um repositorio e partilhar com os restantes membros do grupo;
+          Team Lider- Pedro Dionisio;
+	  
+3ª tarefa: definiçao de objetivos para a realizaçao do projeto;
+          Team lider- Edgar Cavalinhos;
+	  
 Descrição: 
 Este projeto tem como objetivo facilitar a ida aos ginasios para as pessoas que não estão sempre nas mesma cidade. 
 
