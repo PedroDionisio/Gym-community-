@@ -22,5 +22,5 @@ Pontos principais da App:
 Pontos avançados da App:
 
 	1- Realização da marcação de aulas com um personal trainner num determinado ginásio;
-	- Realização de uma parte social da aplicação, que permitaos utilizadores comunicarem entre si e até a marcação de aulas em conjunto;          
+	2- Realização de uma parte social da aplicação, que permitaos utilizadores comunicarem entre si e até a marcação de aulas em conjunto;          
 	
