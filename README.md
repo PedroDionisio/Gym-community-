@@ -3,6 +3,7 @@
 
 
 Descrição: 
+Este projeto tem como objetivo facilitar a ida aos ginasios para as pessoas que não estão sempre nas mesma cidade. 
 
 
 - Servidor a correr em uma máquina virtual (virtual box);
