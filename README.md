@@ -17,7 +17,7 @@
 
 	
 <h1>Pontos Avançados a Realizar</h1>	
-	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio com a sua avaliação na aplicação no final do treino.</li>
+	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio, seguido de uma avaliação na aplicação no final do treino, onde será atribuído pontos a cada personal Trainner.</li>
 	
 	
 
