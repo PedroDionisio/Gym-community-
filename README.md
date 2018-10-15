@@ -9,13 +9,13 @@
 
 <h1>Aspectos Necessários</h1>
 
-
+<ul>
   <li>Servidor em máquina Virtual (Virtual Box)</li>
   <li>Configuração do Servidor </li>
   <li>Base de Dados (SQL)</li>
   <li>Criação WebSite com php/html/javascript</li>
   <li>Criação aplicação Mobile (Android)</li>
-
+</ul>
 
 
 <h1>Principais pontos a Desenvolver </h1>
