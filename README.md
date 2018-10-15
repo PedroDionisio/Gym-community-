@@ -1,10 +1,7 @@
 <h2>Descrição do projecto </h2>
 
 <table>
-  <tr>
-    <th>GymCommunity</th>
-    
-  </tr>
+ 
   <tr>
     <td>cvybuhnijmok,pl.-</td>
     
