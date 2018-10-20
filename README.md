@@ -29,3 +29,12 @@
 	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio com a sua avaliação na aplicação no final do treino.</li></ul>
 	
 	
+<h1>Requisitos para o Servidor</h1>
+
+<ul>
+  <li>	Processador: Dual-Core (dois núcleos) 1.6GHz</li>
+  <li>	Memória RAM: 2GB; </li>
+  <li>	Espaço livre em disco: 10GB (para instalação do sistema)</li>
+  <li> 	Recursos gráficos:  placa de vídeo no  mínimo, 128MB </li>
+ 
+</ul
