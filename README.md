@@ -8,19 +8,22 @@
 </table>
 
 
+
+<h1>Líderes das Tarefas Realizadas </h1>
+
 <table>
   <tr>
-    <th>Company</th>
-    <th>Company</th>
-    <th>Company</th>
-    <th>Company</th>
+    <th>tarefa 1 - Apresentação do tema</th>
+     <th>tarefa 2 -  </th>
+    <th>tarefa 3 - Protótipos da App e Página Web</th>
+     <th>tarefa 4 - </th>
     
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-     <td>Alfreds Futterkiste</td>
-      <td>Alfreds Futterkiste</td>
-       <td>Alfreds Futterkiste</td>
+    <td>César Cosme</td>
+     <td>Pedro Dionísio</td>
+      <td>Edgar Cavalinhos</td>
+       <td></td>
        
     
   </tr>
