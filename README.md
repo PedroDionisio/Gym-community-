@@ -7,6 +7,28 @@
     
 </table>
 
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Company</th>
+    <th>Company</th>
+    <th>Company</th>
+    
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+     <td>Alfreds Futterkiste</td>
+      <td>Alfreds Futterkiste</td>
+       <td>Alfreds Futterkiste</td>
+       
+    
+  </tr>
+  
+</table>
+
+
+
 <h1>Aspectos Necessários</h1>
 
 <ul>
