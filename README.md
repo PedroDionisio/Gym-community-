@@ -26,6 +26,7 @@
 
 	
 <h1>Pontos Avançados a Realizar</h1>	
+<ul>	
 	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio com a sua avaliação na aplicação no final do treino.</li></ul>
 	
 	
