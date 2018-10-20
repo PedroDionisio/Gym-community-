@@ -7,7 +7,7 @@
     
 </table>
 
-<h3>Me</h3>
+<h4>Membros </h4>
 <ul>
 	<li>César Cosme </li>
 	<li>Edgar Cavalinhos </li>
