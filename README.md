@@ -13,17 +13,17 @@
 
 <table>
   <tr>
-    <th>tarefa 1 - Apresentação do tema</th>
-    <th>tarefa 2 -  </th>
-    <th>tarefa 3 - Protótipos da App e Página Web</th>
-    <th>tarefa 4 - </th>
+    <th>Tarefa 1 - Apresentação do tema</th>
+    <th>Tarefa 2 - Criação Repositório GitHUb</th>
+    <th>Tarefa 3 - Protótipos da App e Página Web</th>
+    <th>Tarefa 4 - Requisitos para Servidor</th>
     
   </tr>
   <tr>
     <td>César Cosme</td>
     <td>Pedro Dionísio</td>
     <td>Edgar Cavalinhos</td>
-    <td></td>
+    <td>Pedro Dionísio</td>
        
     
   </tr>
