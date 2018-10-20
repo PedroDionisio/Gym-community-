@@ -1,4 +1,4 @@
-<h2>Descrição do projecto </h2>
+<h1>Descrição do projecto </h1>
 
 <table>
  
@@ -6,6 +6,13 @@
     <td>Este projecto consiste em desenvolver uma comunidade de Ginásios, é constítuida por uma app Android para o smartphone e por uma página Web. O grande Objectivo deste projecto é simplificar a marcação de aulas em um determinado ginásio para as pessoas mais ocupadas, seguido de mais funcionalidades como um social chat para a marcação de aulas com amigos ou até mesmo com um personal trainner em específico. </td>
     
 </table>
+
+<h3>Me</h3>
+<ul>
+	<li>César Cosme </li>
+	<li>Edgar Cavalinhos </li>
+	<li>Pedro Dionísio </li>
+	</ul>
 
 
 
