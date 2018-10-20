@@ -7,7 +7,7 @@
     
 </table>
 
-<h4>Membros </h4>
+<h4>Membros do Projecto </h4>
 <ul>
 	<li>César Cosme </li>
 	<li>Edgar Cavalinhos </li>
