@@ -3,7 +3,7 @@
 <table>
  
   <tr>
-    <td>cvybuhnijmok,pl.-</td>
+    <td>Este projecto consiste em desenvolver uma comunidade de Ginásios, é constítuida por uma app Android para o smartphone e por uma página Web. O grande Objectivo deste projecto é simplificar a marcação de aulas em um determinado ginásio para as pessoas mais ocupadas, seguido de mais funcionalidades como um social chat para a marcação de aulas com amigos ou até mesmo com um personal trainner em específico. </td>
     
 </table>
 
@@ -33,9 +33,9 @@
 <h1>Requisitos para o Servidor</h1>
 
 <ul>
-  <li>	Processador: Dual-Core (dois núcleos) 1.6GHz</li>
+  <li>	Processador: Dual-Core (dois núcleos) 1.6GHz;</li>
   <li>	Memória RAM: 2GB; </li>
-  <li>	Espaço livre em disco: 10GB (para instalação do sistema)</li>
-  <li> 	Recursos gráficos:  placa de vídeo no  mínimo, 128MB </li>
+  <li>	Espaço livre em disco: 10GB (para instalação do sistema);</li>
+  <li> 	Recursos gráficos:  placa de vídeo no  mínimo, 128MB. </li>
  
 </ul>
