@@ -62,7 +62,7 @@
 	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio com a sua avaliação na aplicação no final do treino.</li></ul>
 	
 	
-<h1>Requisitos para o Servidor</h1>
+<h1>Requisitos para o Servidor (Ubunto Server)</h1>
 
 <ul>
   <li>	Processador: Dual-Core (dois núcleos) 1.6GHz;</li>
