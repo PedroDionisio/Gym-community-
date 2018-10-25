@@ -32,7 +32,7 @@
     <td>César Cosme</td>
     <td>Pedro Dionísio</td>
     <td>Edgar Cavalinhos</td>
-    <td>Cesar Cosme</td>
+    <td>César Cosme</td>
     <td>Pedro Dionísio</td>
     <td>Edgar Cavalinhos</td>
        
