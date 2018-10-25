@@ -3,7 +3,7 @@
 <table>
  
   <tr>
-    <td>Este projecto consiste em desenvolver uma comunidade de Ginásios, é constítuida por uma app Android para o smartphone e por uma página Web. O grande Objectivo deste projecto é simplificar a marcação de aulas em um determinado ginásio para as pessoas mais ocupadas, seguido de mais funcionalidades como um social chat para a marcação de aulas com amigos ou até mesmo com um personal trainner em específico. </td>
+    <td>Este projecto consiste em desenvolver uma comunidade de Ginásios, é constítuida por uma app Android para o smartphone e por uma página Web. O grande Objectivo deste projecto é simplificar a marcação de aulas em um ginásio. </td>
     
 </table>
 
@@ -59,7 +59,7 @@
 	
 <h1>Pontos Avançados a Realizar</h1>	
 <ul>	
-	<li>Marcação de aulas com um determinado personal Trainner num determinado ginsásio com a sua avaliação na aplicação no final do treino.</li></ul>
+	<li>Marcação de aulas com um determinado personal Trainner.</li></ul>
 	
 	
 <h1>Requisitos para o Servidor (Ubunto Server)</h1>
