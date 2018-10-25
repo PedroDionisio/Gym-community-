@@ -24,6 +24,7 @@
     <th>Tarefa 2 - Criação Repositório GitHUb</th>
     <th>Tarefa 3 - Protótipos da App e Página Web</th>
     <th>Tarefa 4 - Requisitos para Servidor</th>
+    <th>Tarefa 5 - Criaçao da Base de Dados</th>
     
   </tr>
   <tr>
@@ -31,6 +32,7 @@
     <td>Pedro Dionísio</td>
     <td>Edgar Cavalinhos</td>
     <td>Pedro Dionísio</td>
+    <td>Edgar Cavalinhos</td>
        
     
   </tr>
