@@ -24,7 +24,7 @@
     <th>Tarefa 2 - Criação Repositório GitHUb</th>
     <th>Tarefa 3 - Definiçao de Objetivos Web</th>
     <th>Tarefa 4 - Protótipos da App e Página Web</th>
-    <th>Tarefa 5 - Requisitos para Servidor</th>
+    <th>Tarefa 5 - Requisitos para Servidor e criaçao do mesmo</th>
     <th>Tarefa 6 - Criaçao da Base de Dados</th>
     
   </tr>
